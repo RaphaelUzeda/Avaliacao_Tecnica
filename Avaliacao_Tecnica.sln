@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avaliacao_Tecnica.Infra.Cro
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "avaliacaotecnica.ui.web", "AvaliacaoTecnica.UI.Web\avaliacaotecnica.ui.web.esproj", "{0935378D-3C30-493B-B64F-F9497E8FF17E}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "avaliacaotecnica.ui.web", "..\..\EquinoxProject-master\EquinoxProject-master\AvaliacaoTecnica.UI.Web\avaliacaotecnica.ui.web.esproj", "{9B0D40CB-484B-4067-8EE4-FD94F2E59CA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
