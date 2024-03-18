@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Avaliacao_Tecnica.Application\Avaliacao_Tecnica.Application.csproj" />
+		<ProjectReference Include="..\Avaliacao_Tecnica.Domain\Avaliacao_Tecnica.Domain.csproj" />
+		<ProjectReference Include="..\Avaliacao_Tecnica.Infra.CrossCutting.Identity\Avaliacao_Tecnica.Infra.CrossCutting.Identity.csproj" />
+		<ProjectReference Include="..\Avaliacao_Tecnica.Infra.Data\Avaliacao_Tecnica.Infra.Data.csproj" />
+		<ProjectReference Include="..\Avaliacao_Tecnica.Application\Avaliacao_Tecnica.Application.csproj" />
+		<ProjectReference Include="..\Avaliacao_Tecnica.Domain\Avaliacao_Tecnica.Domain.csproj" />
+		<ProjectReference Include="..\Avaliacao_Tecnica.Infra.CrossCutting.Identity\Avaliacao_Tecnica.Infra.CrossCutting.Identity.csproj" />
+		<ProjectReference Include="..\Avaliacao_Tecnica.Infra.Data\Avaliacao_Tecnica.Infra.Data.csproj" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Avaliacao_Tecnica.Domain\Avaliacao_Tecnica.Domain.csproj" />
+		<ProjectReference Include="..\Avaliacao_Tecnica.Infra.Data\Avaliacao_Tecnica.Infra.Data.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="11.0.1" />
+	</ItemGroup>
+</Project>
